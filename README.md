@@ -1,4 +1,5 @@
-### Olá, bem-vindo!
+<h1 align="center">Bem-vindo ao Mundo - Hello world!  <img src="https://media.giphy.com/media/X1XORnJ6ErubS/giphy.gif" width="55px"></h1>
+
 <div>
   <a href="https://github.com/samuel-constantino">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=samuel-constantino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
