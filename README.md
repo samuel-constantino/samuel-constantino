@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo ao Mundo - Hello world!  <img src="https://media.giphy.com/media/X1XORnJ6ErubS/giphy.gif" width="55px"></h1>
+<h1 align="center">Bem-vindo - Hello world!  <img src="https://media.giphy.com/media/X1XORnJ6ErubS/giphy.gif" width="55px"></h1>
 
 <div align="center"><img src ="./assets/gifs/matrix-rain.gif" width="100%"></div>
 
