@@ -1,6 +1,6 @@
 <h1 align="center">Bem-vindo - Hello world!  <img src="https://media.giphy.com/media/X1XORnJ6ErubS/giphy.gif" width="55px"></h1>
 
-<div align="center"><img src ="./assets/gifs/matrix-rain.gif" width="80%"></div>
+<div align="center"><img src ="./assets/gifs/matrix-rain.gif" width="90%"></div>
 
 <div align="center">
   <a href="https://github.com/samuel-constantino">
