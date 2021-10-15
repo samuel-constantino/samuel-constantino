@@ -2,6 +2,8 @@
 
 <div align="center"><img src ="./assets/gifs/matrix-rain.gif" width="90%"></div>
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=samuel-constantino&&bg_color=0d1117&color=95ff00&line=95ff00&point=fff&area=false&area_color=190ff8&hide_border=false" width='90%'/></div>
+
 <div align="center">
   <a href="https://github.com/samuel-constantino">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=samuel-constantino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
