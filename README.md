@@ -13,12 +13,12 @@
 </div>
   
 <div align="left">
-  <h2>Codewars</h2>  
-</div>
+  <h2>Codewars</h2>
   
-<div align="center">
-  <img src="https://www.codewars.com/users/samuel-constantino/badges/large" />
-</dv>
+  <div align="center">
+    <a href="https://www.codewars.com/users/samuel-constantino" target="_blank"><img src="https://www.codewars.com/users/samuel-constantino/badges/large" target="_blank"></a>
+  </dv>
+</div>
   
 <div align="left">
   <h2>Tecnologias</h2>  
