@@ -27,11 +27,15 @@
 <div align="center">
   <!--- html badge -->
   <img src = "https://img.shields.io/badge/-HTML5-1C1C1C?style=plastic&logo=html5&logoColor=E34F26" width="85px"> <img src = "https://img.shields.io/badge/-CSS3-1C1C1C?style=plastic&logo=css3&logoColor=1572B6" width="75px">
+  <!--- CSS3 badge -->
   <img src = "https://img.shields.io/badge/-JavaScript-1C1C1C?style=plastic&logo=javascript&logoColor=eed718" width="110px"> <img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" width="90px">
+  <!--- JavaScript badge -->
   <img src="https://img.shields.io/badge/-ReactJs-1C1C1C?logo=react&logoColor=61DAFB&style=plastic" width="90px">
-  <img src="https://img.shields.io/badge/-Redux-1C1C1C?logo=redux&logoColor=764ABC&style=plastic" width="85px"> <img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837&style=plastic" width="70px">
+  <!--- React badge -->
   <img src="https://img.shields.io/badge/-Jest-1C1C1C?logo=jest&logoColor=C21325&style=plastic" width="65px"> 
+  <!--- Redux badge -->
   <img src="https://img.shields.io/badge/-Testing%20Library-1C1C1C?logo=testing-library&logoColor=E33332&style=plastic" width="150px">
+  <!--- Node badge -->
 </div>
   
 <div align="left">
