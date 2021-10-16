@@ -14,6 +14,12 @@
   
   ##
   
+  <div align="center">
+    <img src="https://www.codewars.com/users/samuel-constantino/badges/large" />
+  </dv>
+  
+  ##
+  
 <div align="center">
   <!--- html badge -->
   <img src = "https://img.shields.io/badge/-HTML5-1C1C1C?style=plastic&logo=html5&logoColor=E34F26" width="85px"> <img src = "https://img.shields.io/badge/-CSS3-1C1C1C?style=plastic&logo=css3&logoColor=1572B6" width="75px">
