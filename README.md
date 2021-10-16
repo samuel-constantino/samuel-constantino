@@ -31,10 +31,11 @@
   <img src = "https://img.shields.io/badge/-CSS3-1C1C1C?style=plastic&logo=css3&logoColor=1572B6" width="75px">
   <!--- JavaScript badge -->
   <img src = "https://img.shields.io/badge/-JavaScript-1C1C1C?style=plastic&logo=javascript&logoColor=eed718" width="110px">
-  <img src="https://img.shields.io/badge/-ReactJs-1C1C1C?logo=react&logoColor=61DAFB&style=plastic" width="90px">
   <!--- React badge -->
+  <img src="https://img.shields.io/badge/-ReactJs-1C1C1C?logo=react&logoColor=61DAFB&style=plastic" width="90px">
+  <!--- Jest badge -->
   <img src="https://img.shields.io/badge/-Jest-1C1C1C?logo=jest&logoColor=C21325&style=plastic" width="65px"> 
-  <!--- Redux badge -->
+  <!--- Testing Library badge -->
   <img src="https://img.shields.io/badge/-Testing%20Library-1C1C1C?logo=testing-library&logoColor=E33332&style=plastic" width="150px">
   <!--- Node badge -->
   <img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" width="90px">
