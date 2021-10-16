@@ -12,13 +12,13 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-constantino&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
-  ##
+  ## Codewars
   
   <div align="center">
     <img src="https://www.codewars.com/users/samuel-constantino/badges/large" />
   </dv>
   
-  ##
+  ## Tecnologias
   
 <div align="center">
   <!--- html badge -->
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Testing%20Library-1C1C1C?logo=testing-library&logoColor=E33332&style=plastic" width="150px">
 </div>
   
-  ##
+  ## Contato
   
   <div align="center">
     <a href="https://www.linkedin.com/in/samuel-constantino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
